@@ -1,0 +1,10 @@
+﻿  MyForm.cpp
+c:\users\onee\source\repos\project5\project5\myform.h(420): warning C4018: '<': signed/unsigned mismatch
+c:\users\onee\source\repos\project5\project5\myform.h(442): warning C4018: '<': signed/unsigned mismatch
+c:\users\onee\source\repos\project5\project5\myform.h(436): warning C4101: 'word2': unreferenced local variable
+c:\users\onee\source\repos\project5\project5\myform.h(461): warning C4018: '<': signed/unsigned mismatch
+c:\users\onee\source\repos\project5\project5\myform.h(478): warning C4018: '<': signed/unsigned mismatch
+c:\users\onee\source\repos\project5\project5\myform.h(495): warning C4018: '<': signed/unsigned mismatch
+c:\users\onee\source\repos\project5\project5\myform.h(515): warning C4018: '<': signed/unsigned mismatch
+c:\users\onee\source\repos\project5\project5\myform.h(542): warning C4018: '<': signed/unsigned mismatch
+  Project5.vcxproj -> C:\Users\onee\source\repos\Project5\Debug\Project5.exe
